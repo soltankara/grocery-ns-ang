@@ -1,0 +1,4 @@
+D:\soltankara\projects\Grocery\platforms\android\app\src\main\assets\app\bundle.js
+D:\soltankara\projects\Grocery\platforms\android\app\src\main\assets\app\runtime.js
+D:\soltankara\projects\Grocery\platforms\android\app\src\main\assets\app\tns-java-classes.js
+D:\soltankara\projects\Grocery\platforms\android\app\src\main\assets\app\vendor.js
